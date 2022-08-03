@@ -18,6 +18,6 @@ function lengthOfLongestSubstring(s) {
     return maxLength;
 }
 
-console.log(lengthOfLongestSubstring("dfvcdffsabcdef"));
+console.log(lengthOfLongestSubstring("dfvcdffsabcdef"));   // longest unique substring is "fsabcde", which has length 7
 
 
