@@ -17,3 +17,4 @@
  console.log(isPalin('malayalam'));
  console.log(isPalin('ammama'));
 
+// https://stackoverflow.com/questions/22111507/how-to-write-palindrome-in-javascript

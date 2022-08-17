@@ -20,4 +20,4 @@ function lengthOfLongestSubstring(s) {
 
 console.log(lengthOfLongestSubstring("dfvcdffsabcdef"));   // longest unique substring is "fsabcde", which has length 7
 
-
+// SO question https://stackoverflow.com/questions/49057152/write-a-javascript-function-to-find-longest-substring-in-a-given-a-string-withou
