@@ -16,4 +16,4 @@ console.log(counter("programming"));
 
 //const dupes = s => [...s].reduce((a,c)=>(a[c]=a[c]+1||1 && a, {})
 const dupes = s => [...s].reduce((a, c) => (a[c] = a[c] + 1 || 1) && a, {})
-console.log(dupes("differently")); 
+console.log(dupes("How are things going up there Shawn")); 
